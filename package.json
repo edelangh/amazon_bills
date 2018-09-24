@@ -1,0 +1,23 @@
+{
+  "name": "amazonbill",
+  "version": "1.0.0",
+  "description": "crawl amazon bill on your account",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "nightmare": "^3.0.1",
+    "nightmare-inline-download": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amazon",
+    "bill",
+    "nightmarejs"
+  ],
+  "author": "Eric Delanghe",
+  "license": "ISC"
+}
